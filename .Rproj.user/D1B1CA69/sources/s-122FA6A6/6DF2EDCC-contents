@@ -4,5 +4,5 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "How to Order"
+    - text: "Order"
       href: order.html
