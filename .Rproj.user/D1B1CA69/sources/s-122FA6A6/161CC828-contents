@@ -1,8 +1,0 @@
-name: "Cats of Fall Creek"
-navbar:
-  title: "Cats of Fall Creek"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "How to Order"
-      href: order.html
